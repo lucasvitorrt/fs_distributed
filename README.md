@@ -25,8 +25,8 @@ Este é um projeto simples de servidor e cliente para transferência de arquivos
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/lucasvitorrt/fs_distributed.git
+cd fs_distributed
 ```
 
 ### 2. Inicie o servidor
